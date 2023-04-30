@@ -1,0 +1,6 @@
+# 项目排除路径
+/api-gateway/target/
+/shop-order-api/target/
+/shop-order-server/target/
+/shop-product-api/target/
+/shop-product-server/target/
